@@ -1,0 +1,19 @@
+p{
+    color:brown;
+}
+.desc{
+    color:gold;
+    font-size: 36px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+button{
+    display: block;
+}
+div{
+    border: 5px solid red;
+    text-align: center;
+}
